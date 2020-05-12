@@ -1,0 +1,42 @@
+title: Allen Lee
+author: Allen
+email: allenleein@gmail.com
+description: > # this means to ignore newlines until "show_exerpts:"
+  
+show_excerpts: false # set to true to show excerpts on the homepage
+
+paginate: 40
+paginate_path: "/blog/page:num/"
+
+tag_permalink_style: pretty
+tag_page_layout: tag_page
+tag_page_dir: tag
+
+# jekyll-dash date format
+
+dash:
+  date_format: "%b %-d, %Y"
+  toggle: false
+
+
+  disqus:
+    shortname: 
+
+  # generate social links in footer
+  # supported colors: green, red, orange, blue, cyan, pink, teal, yellow, indigo, purple
+  social_links:
+    - url: https://github.com/allenleein
+      icon: napster
+      color: yellow
+    - url: https://twitter.com/allenleein
+      icon: twitter
+      color: blu
+# Build settings
+theme: jekyll-dash
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
+ - jekyll-paginate
+ - liquid-md5
+ - jekyll/tagging
