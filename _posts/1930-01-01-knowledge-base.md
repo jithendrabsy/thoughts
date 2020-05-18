@@ -99,8 +99,6 @@ Demo:
 
 # My MasterClass 
 
-[Podcast List](https://allen-lee.gitbook.io/knowledge-base/podcast/my-masterclass)
-
-[Video List]()
+[Podcast List](https://allen-lee.gitbook.io/knowledge-base/masterclass/my-masterclass) 
 
 [Reads List](https://allen-lee.gitbook.io/knowledge-base/masterclass/reads)
