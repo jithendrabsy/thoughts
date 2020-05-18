@@ -9,6 +9,7 @@ tags: Creation
 - Goal: Decentralizing my brain to a network of brains
 - Wiki: [Link](https://github.com/allenleein/knowledge-base/wiki/Ghosts-in-the-Shell)
 - Github: [Link](https://github.com/allenleein/knowledge-base)
+- Gitbook: [Link](https://allen-lee.gitbook.io/knowledge-base/)
 
 ## How to Search
 
