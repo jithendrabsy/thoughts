@@ -57,7 +57,7 @@ tags: Creation
 
 ---
 
-## How to Search
+# How to Search (Clone to local)
 
 I use [rga](https://github.com/phiresky/ripgrep-all): ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 
