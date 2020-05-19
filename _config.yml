@@ -25,7 +25,7 @@ dash:
   # generate social links in footer
   # supported colors: green, red, orange, blue, cyan, pink, teal, yellow, indigo, purple
   social_links:
-    - url: https://allenleein.github.io/terminal/
+    - url: https://github.com/allenleein/knowledge-base
       icon: napster
       color: yellow
     - url: https://twitter.com/allenleein
