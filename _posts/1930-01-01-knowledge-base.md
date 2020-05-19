@@ -10,21 +10,7 @@ tags: Creation
 - Wiki: [Link](https://github.com/allenleein/knowledge-base/wiki/Ghosts-in-the-Shell)
 - Github: [Link](https://github.com/allenleein/knowledge-base)
 
-## How to Search
-
-I use [rga](https://github.com/phiresky/ripgrep-all): ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
-
-If you don't have Rust on your machine yet, please use [rustup](https://doc.rust-lang.org/book/ch01-01-installation.html) to Install.
-
-Demo:
-
-<p align="center">
-  <img width="650" height="550" src="https://i.imgur.com/PJGt5pt.jpg" alt="Sublime's custom image"/>
-</p>
-
----
-
-# Fav Inputs
+# Favorite Input Sources
 
 ### 🔳 Tools
 
@@ -61,16 +47,26 @@ Demo:
 
 [Thinking Models](https://github.com/allenleein/knowledge-base/tree/gh-pages/Thinking-Models)
 
-
 ### 🔳 Future
 
 [Nuclear Reactor Design](https://github.com/allenleein/knowledge-base/tree/gh-pages/Nuclear%20Reactor%20Design)
 
----
-
-
-# My MasterClass
+### 🔳 Audio
 
 [Podcast List](https://allen-lee.gitbook.io/knowledge-base/masterclass/my-masterclass) 
 
+---
 
+## How to Search
+
+I use [rga](https://github.com/phiresky/ripgrep-all): ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
+
+If you don't have Rust on your machine yet, please use [rustup](https://doc.rust-lang.org/book/ch01-01-installation.html) to Install.
+
+Demo:
+
+<p align="center">
+  <img width="650" height="550" src="https://i.imgur.com/PJGt5pt.jpg" alt="Sublime's custom image"/>
+</p>
+
+---
