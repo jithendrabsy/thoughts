@@ -69,4 +69,7 @@ Demo:
   <img width="650" height="550" src="https://i.imgur.com/PJGt5pt.jpg" alt="Sublime's custom image"/>
 </p>
 
+
+[![asciicast](https://asciinema.org/a/332585.svg)](https://asciinema.org/a/332585)
+
 ---
