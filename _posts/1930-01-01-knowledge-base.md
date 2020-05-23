@@ -11,52 +11,35 @@ tags: Creation
 - File system: [Link](https://github.com/allenleein/knowledge-base)
 - Functions (In process): [Link](https://allen-lee.gitbook.io/knowledge-base/)
 
-# Favorite Input Sources
+# Structure
 
-### 🔳 Tools
+├─Tool
+│   ├── SICP
+│   │   ├── Scheme ├── Haskell ├── Rust ├── Typescript ├── Swift
+│   ├── Vim
+│   ├── OSX 
+│   ├── Lin
+│   ├── ML
+│   └── Problem Solving
+├─Input
+├── Thinking
+│   ├── Problem Solving 
+│   ├── Thinking Models
+│   ├── Strategy ├── Moat ├── Leverage
+│   ├── Design
+├── Building
+│   ├── Lead
+│   ├── 10x Engineering
+│   ├── Strategy ├── Moat ├── Leverage
+│   ├── Design
+├─Functions
+│   ├── Games Theory
+│   ├── The Art of Focus
+├─Output
+│   ├── Pending Future ├── Nuclear Reactor ├── Space Traveler
+│   ├── In Process ├── TARS ├── Enders
+└── .gitignore
 
-[Scheme](https://github.com/allenleein/knowledge-base/tree/gh-pages/CS-Functional-Programming)
-
-[Haskell](https://github.com/allenleein/knowledge-base/tree/gh-pages/CS-Functional-Programming/Haskell)
-
-[Compiler](https://github.com/allenleein/knowledge-base/tree/gh-pages/CS-Compiler)
-
-
-### 🔳 Talents
-
-[Finding Genius](https://github.com/allenleein/knowledge-base/tree/gh-pages/Finding%20Genius)
-
-### 🔳 Product
-
-[PRD](https://github.com/allenleein/knowledge-base/tree/gh-pages/Product-Deck/PRD)
-
-[Failed to Upside the Upside](https://github.com/allenleein/knowledge-base/tree/gh-pages/Product-Strategy/Failed%20to%20Upside%20the%20Upside)
-
-[Founding Stories](https://github.com/allenleein/knowledge-base/tree/gh-pages/Product-Strategy/Founding%20Stories)
-
-[Moat and Leverage](https://github.com/allenleein/knowledge-base/tree/gh-pages/Product-Strategy/Moat%20and%20Leverage)
-
-[No MVP](https://github.com/allenleein/knowledge-base/tree/gh-pages/Product-Strategy/No%20MVP)
-
-### 🔳 Building
-
-[Design](https://github.com/allenleein/knowledge-base/tree/gh-pages/Product-Design)
-
-[10x Engineering](https://github.com/allenleein/knowledge-base/tree/gh-pages/Execution/10x%20Engineering)
-
-### 🔳 Think
-
-[Thinking Models](https://github.com/allenleein/knowledge-base/tree/gh-pages/Thinking-Models)
-
-### 🔳 Future
-
-[Nuclear Reactor Design](https://github.com/allenleein/knowledge-base/tree/gh-pages/Nuclear%20Reactor%20Design)
-
-### 🔳 Audio
-
-[Podcast List](https://allen-lee.gitbook.io/knowledge-base/masterclass/my-masterclass) 
-
----
 
 # How to Search (Clone to local)
 
