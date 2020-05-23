@@ -6,8 +6,6 @@ tags: Creation
 ---
 
 - Intro: The input & functions of my thinking
-- Goal: Decentralizing my brain to a network of brains
-- Wiki: [Link](https://github.com/allenleein/knowledge-base/wiki/Ghosts-in-the-Shell)
 - File system: [Link](https://github.com/allenleein/knowledge-base)
 - Functions (In process): [Link](https://allen-lee.gitbook.io/knowledge-base/)
 
