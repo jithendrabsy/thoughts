@@ -18,7 +18,7 @@ tags: Creation
 │   │   ├── Scheme ├── Haskell ├── Rust ├── Typescript ├── Swift
 │   ├── Vim
 │   ├── OSX 
-│   ├── Lin
+│   ├── Linux
 │   ├── ML
 │   └── Problem Solving
 ├─Input
