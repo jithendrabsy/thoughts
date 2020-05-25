@@ -78,4 +78,4 @@ From [FirtRound Review, CEO of Superhuman](https://firstround.com/review/how-sup
 
 [Andreessen vs. Thiel](https://allenleein.github.io/2019/06/12/games2.html)
 
-[[Snippet] - Marc Andreessen on 'Flying Car'](https://allenleein.github.io/2020/03/11/pmarca-flying-car.html)
+[[Issue] - Marc Andreessen on 'Flying Car'](https://allenleein.github.io/2020/03/11/pmarca-flying-car.html)
