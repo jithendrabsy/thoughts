@@ -16,7 +16,7 @@ I believe in creating the future with a strong vision, not finding it.
 
 You can't 'find' the future, you 'bend' the future. Nowadays, we just attribute too much to luck, which stops us from actually thinking and doing amazing things. We should all be looking for far more predictable paths to success and having the ridiculous deep conviction on an idea we truly loved.
 
- The experiments on finding luck are are traditionally coupled with short-termism, gauging our success in an incredibly tight timeline and thinking in a narrow spectrum. This mindset stop founder to chooose the more unclear and ambitious path. You either want to choose an easy path to "feel safe(Lean)" or choose an unclear path to forge, rather than test the market you want to build(Vision). Vision could be a materiel image if the founders have enough imagination and vision at the first place. 
+ The experiments on finding luck are are traditionally coupled with short-termism, gauging our success in an incredibly tight timeline and thinking in a narrow spectrum. This mindset stop founder to chooose the more unclear and ambitious path. You either want to choose an easy path to "feel safe(Lean)" or choose an unclear path to forge, rather than test the market you want to build(Vision). Vision could be a materiel image if the founders have enough imagination and conviction at the first place. 
 
 Even you eventually build a successful company, there might be an upside you did not "upside".
  
