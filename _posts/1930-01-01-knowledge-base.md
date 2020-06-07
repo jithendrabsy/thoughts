@@ -50,4 +50,4 @@ If you don't have Rust on your machine yet, please use [rustup](https://doc.rust
 
 Demo:
 
-[![asciicast](https://asciinema.org/a/337203.svg)](https://asciinema.org/a/337203)
+<center><script id="asciicast-337203" src="https://asciinema.org/a/337203.js" async></script></center>
