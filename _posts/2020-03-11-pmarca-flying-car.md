@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Issue] - Pmarca on 'Flying Car'"
+title:  "Pmarca on 'Flying Car'"
 description: 
 tags: Creation
 ---
