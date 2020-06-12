@@ -25,12 +25,12 @@ dash:
   # generate social links in footer
   # supported colors: green, red, orange, blue, cyan, pink, teal, yellow, indigo, purple
   social_links:
-    - url: https://github.com/allenleein/knowledge-base
-      icon: napster
-      color: yellow
-    - url: https://twitter.com/allenleein
-      icon: twitter
-      color: blu
+    - url: 
+      icon: 
+      color: 
+    - url: 
+      icon: 
+      color: 
 # Build settings
 theme: jekyll-dash
 
