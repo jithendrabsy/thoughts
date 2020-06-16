@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Knowledge Base"
+title:  "Knowledge Base (GIS-TARS)"
 description: 
 tags: Creation
 ---
 
 - Intro: The input & functions of my thinking
+- Goal: Decentralize my brain to a network of brains
+- Status: Migration in Progress
 - File system: [Link](https://github.com/allenleein/knowledge-base)
 - Functions (In process): [Link](https://allen-lee.gitbook.io/knowledge-base/)
 
