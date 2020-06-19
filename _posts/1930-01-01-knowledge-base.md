@@ -9,8 +9,8 @@ tags: Creation
 - Goal: Decentralize my brain to a network of brains
 - Status: Migration in Progress
 - File system: [Link](https://github.com/allenleein/knowledge-base)
-- Functions (In process): [Link](https://allen-lee.gitbook.io/knowledge-base/)
-- Output (In process): [TARS](https://app.tarsmachine.com/)
+- Functions (In process): [Link](https://app.tarsmachine.com/)
+
 
 # Structure
 
