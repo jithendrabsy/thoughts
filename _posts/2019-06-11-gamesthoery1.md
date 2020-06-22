@@ -35,7 +35,7 @@ Things those companies doing regularly:
 
 -Love being right.
 
--Love the new idea, not a new way of thinking.
+-Love the new idea, not the new way of thinking.
 
 -Reward  “data-driven”.
 
