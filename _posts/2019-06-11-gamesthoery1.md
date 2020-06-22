@@ -1,11 +1,9 @@
 ---
 layout: post
 title:  "The Upside of Creation"
-description: 
+description: The importance of strategically longterm upside planning is hugely underestimated
 tags: Creation
 ---
-
-- The importance of strategically longterm upside planning is hugely underestimated
 
 Most business people tend to focus on the downside protection, which is maintaining, competing rather than creating. Before you explore your business idea or strategy , it’s important to figure out the odds of creating your own game, not just follow the trend (a game invented by other players). 
 
