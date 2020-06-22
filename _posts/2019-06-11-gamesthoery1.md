@@ -5,6 +5,16 @@ description: The importance of strategically longterm upside planning is hugely 
 tags: Creation
 ---
 
+
+```
+├─ Games Theory
+│   ├── The Nature of the Game: Changing
+│   ├── The Window of the Game: Maintaining
+│   ├── The Odds of the New Game: Creating
+└── 
+
+```
+
 Most business people tend to focus on the downside protection, which is maintaining, competing rather than creating. Before you explore your business idea or strategy , it’s important to figure out the odds of creating your own game, not just follow the trend (a game invented by other players). 
 
 ## The Nature of the Game: Changing
