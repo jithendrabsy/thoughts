@@ -2,7 +2,7 @@ title: Wormh0le
 author: Allen
 email: allenleein@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
- I built unpopular things 
+
 show_excerpts: false # set to true to show excerpts on the homepage
 
 paginate: 40
