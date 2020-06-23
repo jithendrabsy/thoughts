@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Lean Is for Mediocre Minds"
-description: 
+description: Creating, not finding  
 tags: Creation
 ---
 

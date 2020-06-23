@@ -1,15 +1,13 @@
 ---
 layout: post
 title:  "My Knowledge Base"
-description: 
+description: The input & functions of my thinking
 tags: Creation
 ---
 
-- Intro: The input & functions of my thinking
 - Goal: Decentralize my brain to a network of brains
-- Status: Migration in Progress
 - File system: [Link](https://github.com/allenleein/knowledge-base)
-- Functions (In process): [Link](https://app.tarsmachine.com/)
+- Functions (migration in process): [Link](https://app.tarsmachine.com/)
 
 
 # Structure

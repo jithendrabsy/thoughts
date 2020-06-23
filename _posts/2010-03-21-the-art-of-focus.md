@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Art of Focus"
-description: 
+description: No backup plan 
 tags: Creation
 ---
 

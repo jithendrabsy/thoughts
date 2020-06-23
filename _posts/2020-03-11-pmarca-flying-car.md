@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pmarca on 'Flying Car'"
-description: 
+description: Those companies have to be run completely differently 
 tags: Creation
 ---
 
