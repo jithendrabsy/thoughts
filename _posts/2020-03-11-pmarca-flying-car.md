@@ -5,7 +5,7 @@ description: Those companies have to be run completely differently
 tags: Creation
 ---
 
-A Snippet Of An Interview: [Interview with Marc Andreessen](https://www.startups.com/library/founder-stories/marc-andreessen) 
+- A Snippet Of An Interview: [Interview with Marc Andreessen](https://www.startups.com/library/founder-stories/marc-andreessen) 
 
 ## Sarah Lacy: You and Peter Thiel had a really interesting debate about whether or not Silicon Valley is doing enough, and is out there enough, and is pushing big ideas. Peter obviously has the whole “We want to fly in cars, and we got Twitter” manifesto.
 
