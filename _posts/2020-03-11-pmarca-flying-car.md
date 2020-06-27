@@ -7,7 +7,7 @@ tags: Creation
 
 A Snippet Of An Interview: [Interview with Marc Andreessen](https://www.startups.com/library/founder-stories/marc-andreessen) 
 
-### Sarah Lacy: You and Peter Thiel had a really interesting debate about whether or not Silicon Valley is doing enough, and is out there enough, and is pushing big ideas. Peter obviously has the whole “We want to fly in cars, and we got Twitter” manifesto.
+## Sarah Lacy: You and Peter Thiel had a really interesting debate about whether or not Silicon Valley is doing enough, and is out there enough, and is pushing big ideas. Peter obviously has the whole “We want to fly in cars, and we got Twitter” manifesto.
 
 ### In that debate, you were defending Silicon Valley. Do you really look at a lot of the things in your portfolio and look at a lot of things in the world, and think that you guys are funding most of things? Are you so hamstrung by regulators?
 
