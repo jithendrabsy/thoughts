@@ -37,6 +37,7 @@ tags: Creation
 ├─Functions
 │   ├── Games Theory
 │   ├── The Art of Focus
+│   ├── The Art of First Principles
 ├─Output
 │   ├── Pending Future ├── Nuclear Reactor ├── Space Travel
 │   ├── In Process ├── TARS ├── Enders ├── Gargantua
@@ -46,10 +47,16 @@ tags: Creation
 
 # How to Search (Clone to local)
 
-I use [rga](https://github.com/phiresky/ripgrep-all): ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
+**Find files:**
 
-If you don't have Rust on your machine yet, please use [rustup](https://doc.rust-lang.org/book/ch01-01-installation.html) to Install.
+I use [ff](https://github.com/vishaltelangre/ff). If you don't have Rust on your machine yet, please use [rustup](https://doc.rust-lang.org/book/ch01-01-installation.html) to install.
 
-Demo:
+<p align="center">
+  <img width="680" height="200" src="https://i.imgur.com/MtU3suN.jpg" alt="Sublime's custom image"/>
+</p>
+
+**Everything:**
+
+I recommend to use [rga](https://github.com/phiresky/ripgrep-all): ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 
 <center><script id="asciicast-337203" src="https://asciinema.org/a/337203.js" async></script></center>
