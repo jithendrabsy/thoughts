@@ -7,13 +7,13 @@ tags: Creation
 
 - A Snippet Of An Interview: [Interview with Marc Andreessen](https://www.startups.com/library/founder-stories/marc-andreessen) 
 
-## Sarah Lacy: You and Peter Thiel had a really interesting debate about whether or not Silicon Valley is doing enough, and is out there enough, and is pushing big ideas. Peter obviously has the whole “We want to fly in cars, and we got Twitter” manifesto.
+**Sarah Lacy:** You and Peter Thiel had a really interesting debate about whether or not Silicon Valley is doing enough, and is out there enough, and is pushing big ideas. Peter obviously has the whole “We want to fly in cars, and we got Twitter” manifesto.
 
-## In that debate, you were defending Silicon Valley. Do you really look at a lot of the things in your portfolio and look at a lot of things in the world, and think that you guys are funding most of things? Are you so hamstrung by regulators?
+In that debate, you were defending Silicon Valley. Do you really look at a lot of the things in your portfolio and look at a lot of things in the world, and think that you guys are funding most of things? Are you so hamstrung by regulators?
 
-## Is there a way Andreessen Horowitz could stop backing more apps and throw some of the money towards the next SpaceX?
+Is there a way Andreessen Horowitz could stop backing more apps and throw some of the money towards the next SpaceX?
 
-Marc Andreessen: When I debate with Peter, he says, “We want to fly in cars, we got 140 characters,” so therefore I can’t resist. I attack flying cars and I defend Twitter, which grates him up to no end.
+**Marc Andreessen:** When I debate with Peter, he says, “We want to fly in cars, we got 140 characters,” so therefore I can’t resist. I attack flying cars and I defend Twitter, which grates him up to no end.
 In a sense, I very much disagree with what he says, and then in a sense, I very much agree with it. What I disagree with is I think the innovation that’s happening today in Silicon Valley is very important, profound, deep, and important. I’m completely unapologetic about the idea.
 For example, Uber and Lyft. Lyft is the company we work with, we’re very excited about. I think these companies are transformational for transportation. I think they’re fun. We can talk about that for a long time. I think Airbnb is transformational for real estate. I think Bitcoin, transformational for financial services.
 
