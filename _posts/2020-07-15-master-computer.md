@@ -6,7 +6,7 @@ tags: Creation
 ---
 
 ```
-├─Tool
+├── Tools
 │   ├── Vim
 │   ├── OSX 
 │   ├── Linux
