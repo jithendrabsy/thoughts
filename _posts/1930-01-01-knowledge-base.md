@@ -8,7 +8,7 @@ tags: Creation
 - Goal: Decentralize my brain to a network of brains
 - File system: [Link](https://github.com/allenleein/knowledge-base)
 - Audio file system: [Link](https://www.wormh0le.com/1930/01/02/audio.html)
-- Search Engine: [In Process](https://app.tarsmachine.com/)
+- Search Engine: [In Process](http://ios.pensieves.co/)
 
 
 # Structure
