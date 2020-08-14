@@ -7,7 +7,7 @@ tags: Creation
 
 
 ```
-├─ Games Theory
+├─ Games Theor
 │   ├── The Nature of the Game: Changing
 │   ├── The Window of the Game: Maintaining
 │   ├── The Odds of the New Game: Creating
@@ -37,17 +37,17 @@ The opportunity exists in the business world because when companies become succe
 
 Things those companies doing regularly:
 
-- View a temporary trend as a competitive advantage.
+-View a temporary trend as a competitive advantage
 
-- Focus on building reputational momentum.
+-Focus on building reputational momentum
 
-- Believe it’s easy to span across generations.
+-Believe it’s easy to span across generations
 
-- Love being right.
+-Love being right
 
-- Love the new idea, not the new way of thinking.
+-Love the new idea, not the new way of thinking
 
-- Reward  “data-driven”.
+-Reward  “data-driven”
 
 Being right and staying right is different. Doing well reduces the incentive to explore other ideas, especially when those ideas conflict with your proven business model.
 
