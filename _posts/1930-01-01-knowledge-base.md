@@ -14,7 +14,7 @@ tags: Creation
 # Structure
 
 ```
-├─Tool
+├─<00>Tool
 │   ├── SICP
 │   │   ├── Scheme ├── Haskell ├── Rust ├── Typescript ├── Swift
 │   ├── Vim
@@ -23,25 +23,28 @@ tags: Creation
 │   ├── ML
 │   ├── Biohacking
 │   ├── Hacking
+│   ├── Venture Capital
 │   └── Problem Solving
-├─Input
-├── Thinking
+├─<01>Input
+├── <010>Thinking
 │   ├── Problem Solving 
 │   ├── Thinking Models
+│   ├── Storytelling
 │   ├── Strategy ├── Moat ├── Leverage
 │   ├── Design
-├── Building
+│   ├── Macro
+│   ├── Micro
+├── <011>Building
 │   ├── Lead
 │   ├── 10x Engineering
-│   ├── Strategy ├── Moat ├── Leverage
+│   ├── Execution
 │   ├── Design
-├─Functions
+├─  <012>Functions
 │   ├── Games Theory
 │   ├── The Art of Focus
-│   ├── The Art of First Principles
-├─Output
+├─<090>Output
 │   ├── Pending Future ├── Nuclear Reactor ├── Space Travel
-│   ├── In Process ├── TARS ├── Enders ├── Gargantua
+│   ├── In Process ├── TARS(Pensieves) ├── Enders ├── Gargantua
 └── .gitignore
 
 ```
