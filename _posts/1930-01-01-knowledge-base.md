@@ -52,10 +52,6 @@ tags: Creation
 
 # How to Search (Clone to local)
 
-<p align="center">
-<img width="500" src="https://media.giphy.com/media/YO4N1CZ2Z0Kzk2eO8q/giphy.gif" />
-</p>
-
 **Find files:**
 
 I use [ff](https://github.com/vishaltelangre/ff). If you don't have Rust on your machine yet, please use [rustup](https://doc.rust-lang.org/book/ch01-01-installation.html) to install.
