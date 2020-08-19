@@ -11,6 +11,7 @@ tags: Creation
 - Search Engine: [In Process](http://ios.pensieves.co/)
 
 
+
 # Structure
 
 ```
@@ -50,6 +51,10 @@ tags: Creation
 ```
 
 # How to Search (Clone to local)
+
+<p align="center">
+<img width="500" src="https://media.giphy.com/media/YO4N1CZ2Z0Kzk2eO8q/giphy.gif" />
+</p>
 
 **Find files:**
 
