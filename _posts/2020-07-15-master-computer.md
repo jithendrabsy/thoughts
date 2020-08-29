@@ -42,10 +42,10 @@ tags: Creation
 
 [CMU 15-411 Compiler Design](https://www.cs.cmu.edu/~janh/courses/411/18/resources.html)
 
-[Knowledge Base-Compiler](https://github.com/allenleein/knowledge-base/tree/gh-pages/CS-Compiler)
+[Knowledge Base-Compiler](https://github.com/allenleein/knowledge-base/tree/gh-pages/%3C00%3ECompiler)
 
-[Knowledge Base-Functional Programming](https://github.com/allenleein/knowledge-base/tree/gh-pages/CS-Functional-Programming)
+[Knowledge Base-Functional Programming](https://github.com/allenleein/knowledge-base/tree/gh-pages/%3C00%3E-Functional-Programming)
 
-[Knowledge Base-Problem Solving](https://github.com/allenleein/knowledge-base/tree/gh-pages/CE-Problem%20Solving)
+[Knowledge Base-Problem Solving](https://github.com/allenleein/knowledge-base/tree/gh-pages/%3C00%3EProblem%20Solving)
 
 
