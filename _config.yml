@@ -28,14 +28,15 @@ dash:
     - url: https://twitter.com/allenleein
       icon: twitter-square
       color: cyan
-    - url: https://bitbrain.itch.io
+    - url: https://soundcloud.com/archilab
       icon: soundcloud
       color: yellow
     - url: https://github.com/allenleein
       icon: github-square
       color: purple
-
-
+    - url: https://www.instagram.com/gho00sts/
+      icon: instagram
+      color: purple
 
 # Build settings
 theme: jekyll-dash
