@@ -35,7 +35,7 @@ dash:
       icon: github-square
       color: purple
     - url: https://www.instagram.com/gho00sts/
-      icon: instagram
+      icon: twitch
       color: purple
 
 # Build settings
