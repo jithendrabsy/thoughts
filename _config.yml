@@ -37,6 +37,9 @@ dash:
     - url: https://www.instagram.com/gho00sts/
       icon: twitch
       color: purple
+    - url: https://vsco.co/allenleein/gallery
+      icon: instagram
+      color: red
 
 # Build settings
 theme: jekyll-dash
