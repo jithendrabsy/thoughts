@@ -7,7 +7,7 @@ tags: Creation
 
 
 ```
-├─ Games Theor
+├─ Loop
 │   ├── The Nature of the Game: Changing
 │   ├── The Window of the Game: Maintaining
 │   ├── The Odds of the New Game: Creating
