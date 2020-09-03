@@ -26,7 +26,7 @@ tags: Creation
 
 #### Resources
 
-[vimgenius](http://vimgenius.com/lessons/vim-intro)
+[Vimgenius](http://vimgenius.com/lessons/vim-intro)
 
 [A Decade of Vim Series](https://www.semicolonandsons.com/series/A-Decade-of-Vim)
 
