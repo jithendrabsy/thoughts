@@ -97,8 +97,4 @@ Don’t ask users, ask yourself: Do I have a vision of the future and design a m
 
 ### Related Article: 
 
-[[Issue] - Marc Andreessen on 'Flying Car'](https://allenleein.github.io/2020/03/11/pmarca-flying-car.html)
-
-[Andreessen vs. Thiel](https://allenleein.github.io/2019/06/12/games2.html)
-
 [Lean Is for Mediocre Minds](https://allenleein.github.io/2019/12/06/lean-mediocre.html)

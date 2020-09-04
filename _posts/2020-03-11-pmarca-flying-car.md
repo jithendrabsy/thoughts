@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Read Pmarca on Flying Car"
+title:  "<Read> Pmarca on Flying Car"
 description: Those companies have to be run completely differently 
 tags: Creation
 ---
@@ -64,7 +64,5 @@ What you get is you have a very special entrepreneur like Elon, and then he can 
 ### Related Article: 
 
 [The Upside of Creation](https://allenleein.github.io/2019/06/11/gamesthoery1.html)
-
-[Andreessen vs. Thiel](https://allenleein.github.io/2019/06/12/games2.html)
 
 [Lean Is for Mediocre Minds](https://allenleein.github.io/2019/12/06/lean-mediocre.html)

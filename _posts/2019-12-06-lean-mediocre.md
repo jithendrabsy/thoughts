@@ -77,6 +77,3 @@ From [FirtRound Review, CEO of Superhuman](https://firstround.com/review/how-sup
 
 [The Upside of Creation](https://allenleein.github.io/2019/06/11/gamesthoery1.html)
 
-[Andreessen vs. Thiel](https://allenleein.github.io/2019/06/12/games2.html)
-
-[[Issue] - Marc Andreessen on 'Flying Car'](https://allenleein.github.io/2020/03/11/pmarca-flying-car.html)
