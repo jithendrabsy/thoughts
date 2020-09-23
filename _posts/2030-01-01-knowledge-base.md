@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "My Digital Brain"
+title:  "🎩 My Digital Brain"
 description: The input & functions of my thinking
 tags: Creation
 ---
 
 - Goal: Decentralize my brain to a network of brains
 - File system: [Link](https://github.com/allenleein/knowledge-base)
-- Audio file system: [Link](http://www.ab0ve.co/1930/01/02/audio.html)
+- Audio file system: [Link](http://www.ab0ve.co/2030/01/02/audio.html)
 - Search Engine: In Process
 
 
