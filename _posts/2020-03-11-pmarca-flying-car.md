@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "<Read> Pmarca on Flying Car"
+title:  "💲 Pmarca on Flying Car"
 description: Those companies have to be run completely differently 
 tags: Creation
 ---

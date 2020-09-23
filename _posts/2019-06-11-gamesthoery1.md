@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Upside of Creation"
+title:  "💲 The Upside of Creation"
 description: The importance of strategically longterm upside planning is hugely underestimated
 tags: Creation
 ---

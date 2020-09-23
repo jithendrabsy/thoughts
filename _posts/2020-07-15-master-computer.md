@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Master Computer"
+title:  "💲 Master Computer"
 description: 
 tags: Creation
 ---
