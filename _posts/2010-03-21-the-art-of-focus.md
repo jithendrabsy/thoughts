@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "💲 The Art of Focus"
+title:  "The Art of Focus"
 description: No backup plan 
 tags: Creation
 ---

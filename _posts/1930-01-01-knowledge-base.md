@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "💲 My Digital Brain"
+title:  " y Digital Brain"
 description: The input & functions of my thinking
 tags: Creation
 ---

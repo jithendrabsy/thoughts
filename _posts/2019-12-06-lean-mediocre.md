@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "💲 Lean Is for Mediocre Minds"
+title:  "Lean Is for Mediocre Minds"
 description: Creating, not finding  
 tags: Creation
 ---
