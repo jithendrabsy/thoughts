@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "💲 Functions"
-description: The input & functions of my thinking
+title:  "💲 My Digital Brain"
+description: The core input & functions of my thinking
 tags: Creation
 ---
 
