@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "💲 Bookshelf"
+title:  "💲 Books & Essays Input"
 description: 
 tags: Creation
 ---
