@@ -5,9 +5,9 @@ description: The core input & functions of my thinking
 tags: Creation
 ---
 
-- File system: [Link](https://github.com/allenleein/knowledge-base)
+-File system: [Link](https://github.com/allenleein/knowledge-base)
 
-- Anonymous functions: [Link](https://www.notion.so/readyplayerx/Anonymous-functions-2939d552981f4db388a545d27354adef)
+-Anonymous functions: [Link](https://www.notion.so/readyplayerx/Anonymous-functions-2939d552981f4db388a545d27354adef)
 
 
 # Structure
