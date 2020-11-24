@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "💲 My Digital Brain"
+title:  "💲 Digital Brain"
 description: The core input & functions of my thinking
 tags: Creation
 ---
@@ -16,7 +16,7 @@ tags: Creation
 ├─<00>Tool
 │   ├── SICP
 │   │   ├── Scheme ├── Haskell ├── Rust ├── Typescript ├── Swift
-│   ├── Vim
+│   ├── Vim 
 │   ├── OSX 
 │   ├── Linux
 │   ├── ML
