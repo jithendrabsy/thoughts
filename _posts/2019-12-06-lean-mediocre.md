@@ -6,7 +6,7 @@ tags: Creation
 ---
 
 
-All the successful outliners in the startup creation path were looked ridiculous at the beginning. Facebook was a social network for the college student, Snapchat was for high school people. Elon Musk was even failing to demo SpaceX's mini rocket launch at his backyard for 3 times. Today, what they have built have changed how we think about the future. 
+All the successful outliners in the startup creation path were looked ridiculous at the beginning. Facebook was a social network for the college student, Elon Musk was even failing to demo SpaceX's mini rocket launch at his backyard for 3 times. Today, what they have built have changed how we think about the future. 
 
 I believe in creating the future with a strong vision, not finding it. 
 
@@ -34,8 +34,6 @@ Instead, the visionaries create the macro (10x) jump and then ask customers for 
 Tell me a legendary movie director who will ask the audience first.
 
 ---
-
-# Invented, not discovered
 
 Here are some examples:
 
