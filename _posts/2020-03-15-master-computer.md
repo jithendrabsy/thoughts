@@ -26,15 +26,24 @@ tags: Creation
 
 #### Resources
 
+Vim
+
 [Vimgenius](http://vimgenius.com/lessons/vim-intro)
 
 [A Decade of Vim Series](https://www.semicolonandsons.com/series/A-Decade-of-Vim)
 
 [OpenVim](https://www.openvim.com/)
 
+
+Git
+
 [Learn Git Branching](https://learngitbranching.js.org/?demo)
 
-[From the Transistor to the Web Browser by Geohot](https://github.com/geohot/fromthetransistor)
+
+
+Self-Taught CS 
+
+[From the Transistor to the Web Browser by Geohotz](https://github.com/geohot/fromthetransistor)
 
 [MIT 6.004: Computation Structures](https://web.archive.org/web/20191227205825/https://6004.mit.edu/web/fall19/resources/lectures)
 
