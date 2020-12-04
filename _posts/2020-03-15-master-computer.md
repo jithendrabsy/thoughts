@@ -26,7 +26,7 @@ tags: Creation
 
 #### Resources
 
-Vim
+Tools
 
 [Vimgenius](http://vimgenius.com/lessons/vim-intro)
 
@@ -34,14 +34,12 @@ Vim
 
 [OpenVim](https://www.openvim.com/)
 
-
-Git
-
 [Learn Git Branching](https://learngitbranching.js.org/?demo)
 
+[Problem Solving](https://github.com/allenleein/knowledge-base/tree/gh-pages/%3C00%3EProblem%20Solving)
 
 
-Self-Taught CS 
+Strucutre 
 
 [From the Transistor to the Web Browser by Geohotz](https://github.com/geohot/fromthetransistor)
 
@@ -49,12 +47,13 @@ Self-Taught CS
 
 [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 
+Programming
+
 [CMU 15-411 Compiler Design](https://www.cs.cmu.edu/~janh/courses/411/18/resources.html)
 
 [Compiler](https://github.com/allenleein/knowledge-base/tree/gh-pages/%3C00%3ECompiler)
 
 [Functional Programming](https://github.com/allenleein/knowledge-base/tree/gh-pages/%3C00%3E-Functional-Programming)
 
-[Problem Solving](https://github.com/allenleein/knowledge-base/tree/gh-pages/%3C00%3EProblem%20Solving)
 
 
