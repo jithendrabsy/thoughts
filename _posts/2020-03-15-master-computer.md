@@ -51,6 +51,10 @@ Programming
 
 [CMU 15-411 Compiler Design](https://www.cs.cmu.edu/~janh/courses/411/18/resources.html)
 
+[Cornell CS 6120: Advanced Compilers: The Self-Guided Online Course](https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided/)
+
+[Crafting Interpreters](https://github.com/MattPD/cpplinks/blob/master/compilers.md#courses)
+
 [Compiler](https://github.com/allenleein/knowledge-base/tree/gh-pages/%3C00%3ECompiler)
 
 [Functional Programming](https://github.com/allenleein/knowledge-base/tree/gh-pages/%3C00%3E-Functional-Programming)
