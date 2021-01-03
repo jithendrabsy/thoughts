@@ -23,11 +23,11 @@ Even you eventually build a successful company, there might be an upside you did
 
 ## Lean Startup(finding) vs. Fat Startup(forging)
 
-> There are a bunch of teams that have thoughtfully done hypothesis testing, pivoted when the metrics suggested it wasn’t working, and ultimately run out of money. I often wonder whether conviction on a given direction would have saved them. It’s not that the lean startup / MVP approach can’t work. There are plenty of success stories there. And it’s not like startups like Color didn’t raise a ton of money and ultimately completely fail.[Source](https://twitter.com/sachinrekhi/status/1158507212739960833)
+> There are a bunch of teams that have thoughtfully done hypothesis testing, pivoted when the metrics suggested it wasn’t working, and ultimately run out of money. I often wonder whether conviction on a given direction would have saved them. It’s not that the lean startup / MVP approach can’t work. There are plenty of success stories there. And it’s not like startups like Color didn’t raise a ton of money and ultimately completely fail. -[Source](https://twitter.com/sachinrekhi/status/1158507212739960833)
 
 The Lean Startup way is for the mediocre mindset, the fat startup way is for visionaries, period. The other way to put it, the Lean way determines your mindset as a founder and destroys your potential product/business upside upfront. 
 
-Because, the "launch fast, fail fast way(launch an MVP and iterate it)" is to optimize for the company and investor, not the consumer. On the contrary, the MDP way is to optimize for user experience, which is the most important part of building a successful company. Having the MVP-mindset is that the founders don't put themselves enough time and effort to "think hard enough" on their initial idea before collecting short-term metrics for feeling safe. 
+Because, the "launch fast, fail fast way(launch an MVP and iterate it)" is to optimize for the company and investor, not the customer. On the contrary, the MDP way is to optimize for user experience, which is the most important part of building a successful company. Having the MVP-mindset is that the founders don't put themselves enough time and effort to "think hard enough" on their initial idea before collecting short-term metrics for feeling safe. 
 
 Instead, the visionaries create the macro (10x) jump and then ask customers for the micro improvements. Kieth Rabois at Founders Fund once emphasized building a successful product and company is like producing a movie. You have a script and vision of the plot, cast the characters first. Then film the movie. Then you sell tickets.
 
