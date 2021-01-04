@@ -15,6 +15,7 @@ Is there a way Andreessen Horowitz could stop backing more apps and throw some o
 
 **Marc Andreessen:** When I debate with Peter, he says, “We want to fly in cars, we got 140 characters,” so therefore I can’t resist. I attack flying cars and I defend Twitter, which grates him up to no end.
 In a sense, I very much disagree with what he says, and then in a sense, I very much agree with it. What I disagree with is I think the innovation that’s happening today in Silicon Valley is very important, profound, deep, and important. I’m completely unapologetic about the idea.
+
 For example, Uber and Lyft. Lyft is the company we work with, we’re very excited about. I think these companies are transformational for transportation. I think they’re fun. We can talk about that for a long time. I think Airbnb is transformational for real estate. I think Bitcoin, transformational for financial services.
 
 > The capital efficiency of having a small group of software programmers that build amazing software, who then go in and do something in an industry that’s 100 billion or trillion-dollar industry, existing venture capital structure and framework is very good at doing that.
