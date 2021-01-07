@@ -31,4 +31,4 @@ With the sheer amount of information available on the internet today, our mind i
 
 How did we end up like this?  How come there are billions of more users on Tiktok (garbage) than Goodreads (knowledge)?
 
-(Coming Soon...)
+**Coming Soon...**
