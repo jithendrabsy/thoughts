@@ -7,7 +7,7 @@ tags: Creation
 
 
 ```
-├── A Memetic Societye
+├── A Memetic Society
 │   ├── You Are Programmed In A Memetic Machine
 │   ├── We Are Becoming the Glamorous Status-Seeking Memetics
 │   ├── From Maya, Egypt to 1930s...what happened?
