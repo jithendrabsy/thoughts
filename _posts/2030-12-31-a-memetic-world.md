@@ -31,4 +31,13 @@ With the sheer amount of information available on the internet today, our mind i
 
 How did we end up like this?  How come there are billions of more users on Tiktok (garbage) than Goodreads (knowledge)?
 
+> "Kids are never the problem. They are born scientists. The problem is always the adults. The beat the curiosity out of the kids. They out-number kids. They vote. They wield resources. That's why my public focus is primarily adults." --Neil deGrasse Tyson
+
+
+**Humans** are a **programmable** species. We have been programmed for survival but truth. We have a pretty fixed and biased framework to think everything, including educating kids, even adults educating themselves. We want our kids to absorb the same information and framework as we were. We want them to be “survived” all along the way because we have been there before. We achieved something, so we want them to have it too.
+
+We are so used to compare everything with others, social status, titles, degrees, numbers in our bank account. In the end, we are playing a game invented by the old society. We want to win no matter what, we made ourselves overloaded, also made the environment overloaded.  In all along the way, we all create a mind for ourselves that is very similar to our 'peers".
+
+Ironically, we still want our kids to continue this game. Because human beings want to maintain the legacy, the success our generation created. Some people would argue that the world has changed from time to time. On the surface of the culture? Yes. But, if you dig deep enough into the core gaming system, every new generation just invented a new kind of way to play the same old game, a memetic game.
+
 **Coming Soon...**
