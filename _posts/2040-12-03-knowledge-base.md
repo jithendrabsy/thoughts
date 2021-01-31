@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "💲 Brains"
+title:  "💲 File System"
 description: The core functions of my thinking
 tags: Creation
 ---
 
--File system: [Link](https://github.com/allenleein/brains)
+-Files: [Link](https://github.com/allenleein/brains)
 
 
 # Structure

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to Master Computer"
+title:  "Master Computing"
 description: 
 tags: Creation
 ---
