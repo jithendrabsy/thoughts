@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "💲 File System"
-description: The core functions of my thinking
+description: The core input & functions of my thinking
 tags: Creation
 ---
 
