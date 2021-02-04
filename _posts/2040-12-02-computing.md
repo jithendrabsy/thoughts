@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "💲 Master Computing"
+title:  "💲 Computing"
 description: 
 tags: Creation
 ---
@@ -24,9 +24,9 @@ tags: Creation
 
 ```
 
-#### Resources
 
-**Productivity**
+
+### Productivity
 
 [Vimgenius](http://vimgenius.com/lessons/vim-intro)
 
@@ -39,7 +39,7 @@ tags: Creation
 [Problem Solving](https://github.com/allenleein/knowledge-base/tree/gh-pages/%3C00%3EProblem%20Solving)
 
 
-**Strucutre**
+### Strucutre
 
 [From the Transistor to the Web Browser by Geohotz](https://github.com/geohot/fromthetransistor)
 
@@ -47,7 +47,7 @@ tags: Creation
 
 [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 
-Programming
+### Programming
 
 [CMU 15-411 Compiler Design](https://www.cs.cmu.edu/~janh/courses/411/18/resources.html)
 
