@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "💲 Computing"
+title:  "λ Computing"
 description: 
 tags: Creation
 ---
