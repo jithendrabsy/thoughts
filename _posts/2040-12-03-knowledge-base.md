@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "λ File System"
+title:  "λ - File System"
 description: The core input & functions of my thinking
 tags: Creation
 ---
