@@ -5,8 +5,9 @@ description: The core input & functions of my thinking
 tags: Creation
 ---
 
--Files: [Link](https://github.com/allenleein/brains)
+- λ Brains File System: [Link](https://github.com/allenleein/brains)
 
+---
 
 # Structure
 
