@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "9 Albums that turned me into a metal head"
-description: I hope these albums will help you if you are looking to get into the most harsh and violent genre of music
+description: Witness the most harsh and violent genre of music
 tags: Music
 ---
 
