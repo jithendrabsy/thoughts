@@ -1,11 +1,11 @@
-title: Allen's λ Brain
-author: Allen
-email: allenleein@gmail.com
+title: Jithendra's Thoughts
+author: jithendrabsy
+email: jithendra1230@gmail.com
 description: 
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
-paginate: 5
+paginate: 10
 paginate_path: "/blog/page:num/"
 
 tag_permalink_style: pretty
