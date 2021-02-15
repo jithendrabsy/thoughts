@@ -7,7 +7,7 @@ tags: Music
 
 I was a rap fan for a while, and I have listened to some metal samples on hip-hop songs. The best example can be — Slayer’s “Angel of Death” sample on Public Enemy’s “She Watch Channel Zero?!”. Rap and Metal are almost similar, they share many things in common — from headbanging beats to ‘PARENTAL ADVISORY’ stickers on their album covers. But it is during this lockdown, I got more into metal. In this post, I am going to share (recommend) 9 metal albums that turned me into a metalhead.
 
-![]({{ site.baseurl }}/images/9conv.png)
+![]({{ site.baseurl }}/images/initial9.png)
 
 ## 1. “Vol 3. The Subliminal Verses” by Slipknot
 This was the very first metal album that I listened to and it sounded pretty average for me. The lyrics are lousy and they wear those stupid masks — my first impression of this band and the album is that they’ve got an image that automatically appeals to people who like bands for how edgy they look and act rather than their music. I can’t really say anything too negative on the subject matter of this album because I was completely new to metal at that time but to be honest, I couldn’t find one track that I enjoyed even slightly.
