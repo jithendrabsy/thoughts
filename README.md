@@ -1,1 +1,1 @@
-allenleein.github.io
+jithendrabsy.github.io/thoughts
