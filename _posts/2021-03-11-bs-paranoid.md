@@ -40,7 +40,7 @@ Both are equally essential to any metal collection, unless you are absolutely op
 
 ---
 
-My rating for Paranoid - 9/10!
+`My rating for Paranoid - 9/10!`
 
 ---
 
