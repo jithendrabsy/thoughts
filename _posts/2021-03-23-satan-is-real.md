@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "KREATOR "Satan is Real" - Single Review"
+title: "KREATOR 'Satan is Real' - Single Review"
 description: A band with their own unique sound!
 tags: Music
 ---
