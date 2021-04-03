@@ -38,4 +38,10 @@ If I absolutely had to choose one, some days I'd probably go for the self-titled
 and then nails it perfectly. Then again, other days I'd go for Paranoid, simply because it is more varied. 
 Both are equally essential to any metal collection, unless you are absolutely opposite to slow playing in your metal playlists.
 
+---
+
+My rating for Paranoid - 9/10!
+
+---
+
 
