@@ -29,6 +29,8 @@ To be honest, I still have to listen the whole album - "Gods of Violence". This 
 I will post my review of the album very soon! Also, this tracked proved that KREATOR can handle doing multiple styles in theor music.
 
 ---
+
 `My rating for this track - 8.5/10`
+
 ---
 
