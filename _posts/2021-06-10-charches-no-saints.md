@@ -11,7 +11,7 @@ since the late '80s and the great thing is they are keeping their true German tr
 
 ![]({{ site.baseurl }}/images/desaster2.jpg)
 
-The band's latest studio record "Churches Without Saints" is a typical masterpiece thrown  
+The band's latest studio record "Churches Without Saints" is a typical masterpiece thrown 
 into the world of theological darkness, accompanied by a aesthetic feel which is raw and black, 
 but still smoother and less crackling than most of the other death/thrash bands. 
 The most important attraction of this album is atmosphere that created a haunted environment with a prelude in 
